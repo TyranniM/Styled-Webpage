@@ -1,0 +1,98 @@
+html,body{
+    background-color: lavender;
+}
+#head{
+    font-size: 50px;
+    font-family: fantasy;
+}
+h1{
+    color:rgb(44, 137, 190);
+    text-align: center;
+    font-family: fantasy;
+}
+
+img{
+    height:10%;
+    margin-left:30px;
+}
+#facts{
+    float:right;
+    background-color:rgba(44, 137, 190, 0.2);
+    color:rgb(44, 137, 190);
+    font-family:fantasy;
+  border: 1px solid black;
+  border-style: dotted;
+  border-width: medium;
+  width:65%;
+  height:300px;
+}
+.column{
+    float: right;
+}
+table {    
+    border: 1px solid black;
+    border-style:dotted;
+    border-width:medium;
+    margin-right: 10%;
+    background-color: rgba(44, 137, 190, 0.2);
+    width: 100%;
+    color:rgb(44, 137, 190);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+
+table{
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    color:rgb(44, 137, 190);
+    text-align: center;
+    font-family: fantasy;
+}
+#question{
+    font-size: 30px;
+    text-align: center;
+}
+
+#box1{
+    font-family: fantasy;
+    text-align: center;
+}
+
+#gunna{
+    margin-right:15px;
+    margin-top:10px;
+}
+#new-edition.jpeg{
+    height: 10px;
+}
+
+img {
+    height: 25%;
+    width: 20%;
+}
+.boxes{
+    text-align: center;
+}
+num1{
+    text-align: center;
+}
+#box5{
+text-align: left; 
+}
+.LI-profile-badge{
+    margin-left: 35%;
+    Height: 30%;
+}
+#aboutme{
+    text-align: left;
+}
+#box2{
+    text-align: left;
+}
+td{
+   
+}
